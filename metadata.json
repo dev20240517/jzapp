@@ -1,0 +1,5 @@
+{
+  "name": "AI 智能记账",
+  "description": "一个支持每日消费记录、统计分析及 AI 智能预警的记账应用。",
+  "requestFramePermissions": ["camera"]
+}
